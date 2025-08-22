@@ -1,18 +1,24 @@
-## Getting Started
+# 🎵 Java Music Player
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **MP3 Music Player** built using **Core Java** and **JLayer (JavaZoom)** library.  
+The player allows users to play, pause, resume, stop, and navigate between songs from the console.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
+- Play, Pause, Resume, and Stop music
+- Next and Previous track navigation
+- Playlist management using OOP concepts
+- Built with Core Java (no external GUI framework)
+- Lightweight and cross-platform
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Technologies Used
+- **Java (Core, OOPs)**
+- **JLayer (JavaZoom) Library** for MP3 decoding
+- **VS Code / Eclipse** as IDE
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📂 Project Structure
