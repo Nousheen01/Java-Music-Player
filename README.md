@@ -19,6 +19,5 @@ The player allows users to play, pause, resume, stop, and navigate between songs
 - **JLayer (JavaZoom) Library** for MP3 decoding
 - **VS Code / Eclipse** as IDE
 
----
 
-## 📂 Project Structure
+
